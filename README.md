@@ -1,6 +1,6 @@
 
 <h3 align="left">Hi 👋, I'm Shivam Singh</h3>
-<hr>
+<img align="right" alt="Coding" width="400" src="https://www.linkpicture.com/q/giphy_2.gif">
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shivamsh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivamsh/" height="40" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/shivamsinghth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shivamsinghth" height="40" width="40" /></a>
