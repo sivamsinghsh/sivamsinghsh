@@ -3,7 +3,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shivamsh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivamsh/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/shivamsinghth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shivamsinghth" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/@sivamsinghsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@sivamsinghsh" height="30" width="40" /></a>
+<a href="https://hashnode.com/https://hashnode.com/@sivamsinghsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@sivamsinghsh" height="20" width="20" /></a>
 </p>
 <h3 align="center">A Data Analyst And Data Science Enthusiast From India</h3>
 
