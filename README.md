@@ -1,10 +1,11 @@
-<h1 align="left">Hi 👋, I'm Shivam Singh</h1>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Hi 👋, I'm Shivam Singh</h3>
+<hr>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shivamsh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivamsh/" height="15" width="15" /></a>
 <a href="https://fb.com/https://www.facebook.com/shivamsinghth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shivamsinghth" height="15" width="15" /></a>
 <a href="https://hashnode.com/https://hashnode.com/@sivamsinghsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@sivamsinghsh" height="15" width="15" /></a>
 </p>
+
 <h3 align="center">A Data Analyst And Data Science Enthusiast From India</h3>
 
 - 🔭 I’m currently working on [Dashboards-Development-Using-Tableau-And-PowerBI](https://github.com/sivamsinghsh/Dashboards-Development-Using-Tableau-And-PowerBI)
