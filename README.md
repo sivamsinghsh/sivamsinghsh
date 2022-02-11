@@ -7,7 +7,7 @@
 <a href="https://hashnode.com/https://hashnode.com/@sivamsinghsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@sivamsinghsh" height="30" width="30" /></a>
 </p>
 
-<h3 align="center">A Data Analyst And Data Science Enthusiast From India</h3>
+<h3 align="center">A Data Analyst And Data Science Enthusiast From India </h3>
 
 - 🔭 I’m currently working on [Dashboards-Development-Using-Tableau-And-PowerBI](https://github.com/sivamsinghsh/Dashboards-Development-Using-Tableau-And-PowerBI)
 
