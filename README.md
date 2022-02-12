@@ -9,7 +9,7 @@
 
 <h3 align="center">A Data Analyst And Data Science Enthusiast From India </h3>
 
-- 🔭 I’m currently working on [Dashboards-Development-Using-Tableau-And-PowerBI](https://github.com/sivamsinghsh/Dashboards-Development-Using-Tableau-And-PowerBI)
+<b>- 🔭 I’m currently working on [Dashboards-Development-Using-Tableau-And-PowerBI](https://github.com/sivamsinghsh/Dashboards-Development-Using-Tableau-And-PowerBI)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sivamsinghsh](https://github.com/sivamsinghsh)
 
