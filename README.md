@@ -29,10 +29,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivamsinghsh&layout=compact&theme=highcontrast?hide=jupyter%20notebook)](https://github.com/m-prernagithub-readme-stats)
 <br />
-
+<!---
 <div>
    
 ![My github stats](https://github-readme-stats.vercel.app/api?username=sivamsinghsh&show_icons=true&hide_border=true&theme=highcontrast)
 
 </div>
-
+--->
