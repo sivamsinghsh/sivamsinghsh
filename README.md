@@ -15,7 +15,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sivamsinghsh@gmail.com)](mailto:ektamishra1999@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@darecoder/)](https://medium.com/@darecoder)
 
-<br><br>
+<br>
 
 
 <img src="https://komarev.com/ghpvc/?username=sivamsinghsh" alt="darecoder"/> <img src="https://img.shields.io/static/v1?label=Project+count&message=36&color='blue'" alt="darecoder"/>
