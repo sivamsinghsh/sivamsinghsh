@@ -4,20 +4,21 @@
 
 
 
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivamsh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivamsh/" height="30" width="30" /></a>
-<a href="https://fb.com/https://www.facebook.com/shivamsinghth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shivamsinghth" height="30" width="30" /></a>
-<a href="https://hashnode.com/https://hashnode.com/@sivamsinghsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@sivamsinghsh" height="30" width="30" /></a>
-</p>
-
 <h3 align="center">A Data Science Enthusiast From India </h3>
 
 - 🔭 Currently working on [Dashboards-Development-Using-Tableau-And-PowerBI](https://github.com/sivamsinghsh/Dashboards-Development-Using-Tableau-And-PowerBI)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sivamsinghsh](https://github.com/sivamsinghsh)
 
-- 📫 How to reach me **sivamsinghsh@gmail.com**
+- 📫 How to reach me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivamsh/)](https://www.linkedin.com/in/shivamsh/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sivamsinghsh@gmail.com)](mailto:ektamishra1999@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@darecoder/)](https://medium.com/@darecoder)
+[![Hashnode Badge](https://img.shields.io/badge/-Hashnode-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://hashnode.com/@sivamsinghsh)](https://hashnode.com/@sivamsinghsh)
+<br><br>
 
+
+<img src="https://komarev.com/ghpvc/?username=sivamsinghsh" alt="darecoder"/> <img src="https://img.shields.io/static/v1?label=Project+count&message=36&color='blue'" alt="darecoder"/>
 
 
 ## ✔️ Languages and Tools
