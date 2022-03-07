@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sivamsinghsh](https://github.com/sivamsinghsh)
 
-- 📫 How to reach me
+- 📫 How to reach me 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivamsh/)](https://www.linkedin.com/in/shivamsh/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sivamsinghsh@gmail.com)](mailto:sivamsinghsh@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sivamsinghsh/)](https://medium.com/@sivamsinghsh)
